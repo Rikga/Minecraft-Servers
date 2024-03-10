@@ -8,14 +8,17 @@ How to make a Minecraft Server For Java And Bedrock
 5. #For Java type=
 6. 'pkg install wget' in terminal and hit enter
 7. For Vanilla type In Terminal "wget https://piston-data.mojang.com/v1/objects/8dd1a28015f51b1803213892b50b7b4fc76e594d/server.jar" and hit enter
-8. For Paper Type in Terminal "wget https://api.papermc.io/v2/projects/paper/versions/1.20.4/builds/450/downloads/paper-1.20.4-450.jar"
-9. For Spigot Type in Terminal "wget https://download.getbukkit.org/spigot/spigot-1.20.4.jar" Change The Virsion To Youe Accoding
+8. For Spigot Type in Terminal "wget https://download.getbukkit.org/spigot/spigot-1.20.4.jar" Change The Virsion To Youe Accoding
+9. for Vanilla type "java -Xmx1024M -Xms1024M -jar server.jar nogui" nogui"
+10. For Spigot rename "spigot-1.20.4.jar" to 'server.jar' then type ="java -Xmx1024M -Xms1024M -jar server.jar nogui" nogui"
+11. Then Type= "java -Xmx1024M -Xms1024M -jar server.jar nogui" to start your Server
+    
+   
 
-
-10. #For Bedrpck Type=
-11. 'pkg install wget' and hit enter
-12. pkg install unzip and hit enter
-13. Then Type "wget https://minecraft.azureedge.net/bin-linux/bedrock-server-1.20.62.03.zip" change virsion to your accoding then hit enter , then press y and hit enter
-14. then type "unzip bedrock-server-1.20.62.03.zip" and hit enter
-15. last step type "./bedrock_server" and hit enter
+14. #For Bedrpck Type=
+15. 'pkg install wget' and hit enter
+16. pkg install unzip and hit enter
+17. Then Type "wget https://minecraft.azureedge.net/bin-linux/bedrock-server-1.20.62.03.zip" change virsion to your accoding then hit enter , then press y and hit enter
+18. then type "unzip bedrock-server-1.20.62.03.zip" and hit enter
+19. last step type "./bedrock_server" and hit enter
     
